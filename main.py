@@ -2,6 +2,8 @@ import re
 import requests
 import time
 
+# 适当修改接口爬取任意图片，不借助第三方框架
+
 i = 0
 # reg = r'href="(.*?\.jpg)" '
 # jpgre = re.compile(reg)
