@@ -46,7 +46,7 @@ import xlrd
 """
 
 
-def open_excel(file='file.xls'):
+def open_excel(file):
     """
     打开文件
     """
@@ -58,7 +58,7 @@ def open_excel(file='file.xls'):
         print(e)
 
 
-def get_sheet_by_index(file='file.xls', colnameindex=0, _index=0):
+def get_sheet_by_index(file, colnameindex=0, _index=0):
     """
     根据索引获取Excel表格中的sheet数据
     """
@@ -80,7 +80,7 @@ def get_sheet_by_index(file='file.xls', colnameindex=0, _index=0):
     return list
 
 
-def get_sheet_by_name(file='file.xls', colnameindex=0, _name=r'20161020094049'):
+def get_sheet_by_name(file, colnameindex=0, _name=r'20161020094049'):
     """
     根据名称获取Excel表格中的sheet数据
     :param file:Excel文件路径
