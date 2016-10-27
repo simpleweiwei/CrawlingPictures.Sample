@@ -12,5 +12,7 @@ The following code is something really useful.
 
 **【05】WriteExcelByXlsxWriter.py——使用XlsxWriter写Excel**
 
+**【06】HandleExcelByopenpyxl.py——使用openpyxl读写并修改Excel**
+
 
 ......持续更新中
