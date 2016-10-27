@@ -10,6 +10,7 @@ The following code is something really useful.
 
 **【04】ModifyExcelByXlutils.py——使用xlutils修改已存在Excel**
 
+**【05】WriteExcelByXlsxWriter.py——使用XlsxWriter写Excel**
 
 
 ......持续更新中
