@@ -14,5 +14,6 @@ The following code is something really useful.
 
 **【06】HandleExcelByopenpyxl.py——使用openpyxl读写并修改Excel**
 
+**【07】HandleExcelByPandas.py——使用Pandas读写Excel**
 
 ......持续更新中
