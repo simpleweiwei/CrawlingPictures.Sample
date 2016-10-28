@@ -2,18 +2,21 @@
 
 The following code is something really useful.
 
-**【01】CrawlingPictures.py——爬取图片**
+**【001】CrawlingPictures.py——爬取图片**
 
-**【02】ReadExcelByXlrd.py——使用Xlrd读取Excel**
+**【002】ReadExcelByXlrd.py——使用Xlrd读取Excel**
 
-**【03】WriteExcelByXlwt.py——使用Xlwt写Excel**
+**【003】WriteExcelByXlwt.py——使用Xlwt写Excel**
 
-**【04】ModifyExcelByXlutils.py——使用Xlutils修改已存在Excel**
+**【004】ModifyExcelByXlutils.py——使用Xlutils修改已存在Excel**
 
-**【05】WriteExcelByXlsxWriter.py——使用XlsxWriter写Excel**
+**【005】WriteExcelByXlsxWriter.py——使用XlsxWriter写Excel**
 
-**【06】HandleExcelByopenpyxl.py——使用openpyxl读写并修改Excel**
+**【006】HandleExcelByopenpyxl.py——使用openpyxl读写并修改Excel**
 
-**【07】HandleExcelByPandas.py——使用Pandas读写Excel**
+**【007】HandleExcelByPandas.py——使用Pandas读写Excel**
+
+**【008】MakeSwitchByDictionary.py——用Dictionary模拟Switch模式**
+
 
 ......持续更新中
