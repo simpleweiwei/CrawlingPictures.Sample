@@ -18,9 +18,11 @@ The following code is something really useful.
 
 **【008】MakeSwitchByDictionary.py——用Dictionary模拟Switch模式**
 
-**【009】HandleCSV.py——读写csv文件**
+**【009】HandleCSV.py——读写CSV文件**
 
 **【010】HandleJson.py——处理JSON数据**
+
+**【011】HandleXML.py——处理XML数据**
 
 
 ......持续更新中
