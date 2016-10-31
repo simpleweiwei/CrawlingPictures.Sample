@@ -86,3 +86,12 @@ def unserialize_object(d):
 
 a = json.loads(objStr, object_hook=unserialize_object)
 print(a.x)
+
+# 示例8：如果你要处理的是文件而不是字符串，你可以使用 json.dump() 和 json.load() 来编码和解码JSON数据
+# Writing JSON data
+with open('data.json', 'w') as f:
+    jsonStr = json.dump(data, f)
+
+# Reading data back
+with open('data.json', 'r') as f:
+    data = json.load(f)
