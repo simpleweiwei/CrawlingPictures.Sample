@@ -24,5 +24,8 @@ The following code is something really useful.
 
 **【011】HandleXML.py——处理XML数据**
 
+**【012】GenerateUniqueCode.py——生成唯一随机码（可作为优惠券或验证码等）**
+
+
 
 ......持续更新中
