@@ -26,6 +26,7 @@ The following code is something really useful.
 
 **【012】GenerateUniqueCode.py——生成唯一随机码（可作为优惠券或验证码等）**
 
+**【013】CrawlingPicturesFromBaiduTieBa.py——爬取百度贴吧图片**
 
 
 ......持续更新中
