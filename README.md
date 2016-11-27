@@ -24,5 +24,7 @@ The following code is something really useful.
 
 **【011】GenerateUniqueCode.py——生成唯一随机码（可作为优惠券或验证码等）**
 
+**【012】Re_Basic.py——re正则表达式基本使用**
+
 
 ......持续更新中
