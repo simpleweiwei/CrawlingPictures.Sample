@@ -26,5 +26,11 @@ The following code is something really useful.
 
 **【012】Re_Basic.py——re正则表达式基本使用**
 
+**【013】Re_TanLan.py——re正则表达式贪婪模式**
+
+**【014】Re_Multiline.py——re正则表达式匹配多行**
+
+**【015】Re_BieMing.py——re正则表达式分组起别名**
+
 
 ......持续更新中
