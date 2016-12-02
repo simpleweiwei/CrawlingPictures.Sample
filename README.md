@@ -36,5 +36,6 @@ The following code is something really useful.
 
 **【017】Re_JieDing.py——re正则表达式前向界定和后向界定**
 
+**【018】SearchZipFile.py——re正则表达式查找某路径是否含有压缩文件**
 
 ......持续更新中
