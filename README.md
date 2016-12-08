@@ -38,4 +38,6 @@ The following code is something really useful.
 
 **【018】SearchZipFile.py——re正则表达式查找某路径是否含有压缩文件**
 
+**【019】config.py——读写conf配置文件**
+
 ......持续更新中
